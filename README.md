@@ -12,9 +12,9 @@ Including Composer(Dependency Manager for PHP), Laravel.
 Download from <a href="https://getcomposer.org/download/">https://getcomposer.org/download/</a>
 
 <h5>Laravel : </h5>
-Download source from <a href="https://github.com/laravel/laravel/archive/master.zip>Github Repository</a>
+Download source from <a href="https://github.com/laravel/laravel/archive/master.zip">Github Repository</a>
 Decompress it into your project, 
-and then use command line to go into the directory and to execute the instruction <font bgcolor=CDCCCC>Composer install</font> to begin downloading and installing.
+and then use command line to go into the directory and to execute the instruction <font bgcolor="CDCCCC">Composer install</font> to begin downloading and installing.
 
 After finishing installation, we can see the directory structure of app :
 <b>app</b>-
