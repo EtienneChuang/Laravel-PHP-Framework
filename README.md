@@ -6,7 +6,7 @@ Learning and practicing using Laravel from zero.
 Web Server : Apache(within XAMPP)
 
 <h4>Installation : </h4>
-Including Composer(Dependency Manager for PHP), Laravel.
+Including <i>Composer(Dependency Manager for PHP)</i>, <i>Laravel</i>.
 
 <h5>Composer : </h5>
 Download from <a href="https://getcomposer.org/download/">https://getcomposer.org/download/</a>
