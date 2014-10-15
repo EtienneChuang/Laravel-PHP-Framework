@@ -17,14 +17,15 @@ Decompress it into your project,
 and then use command line to go into the directory and to execute the instruction <font bgcolor="CDCCCC">Composer install</font> to begin downloading and installing.
 
 After finishing installation, we can see the directory structure of app :
-<b>app</b>-
-          |--<b>commands</b>
-          |--<b>configs</b>
-          |--<b>controllers</b>
-          |--<b>database</b>
-          |--<b>lang</b>
-          |--<b>models</b>
-          |--<b>start</b>
-          |--<b>storage</b>
-          |--<b>tests</b>
-          |--<b>views</b>
+<ul>app
+  <li>commands</li>
+  <li>configs</li>
+  <li>controllers</li>
+  <li>database</li>
+  <li>lang</li>
+  <li>models</li>
+  <li>start</li>
+  <li>storage</li>
+  <li>tests</li>
+  <li>views</li>
+</ul>
