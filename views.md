@@ -10,3 +10,4 @@ Now, we have views, try to set up <b><i>routes.php</i></b> as following:<br>
 ![routes](https://lh4.googleusercontent.com/-Yiid6CaA_gI/VEurLinRugI/AAAAAAAACFE/OpOGOPjrw7M/w299-h95-no/route.JPG)<br>
 Put http://127.0.0.1/laravel-master/public/users into location bar, then the page will look like:<br>
 ![users](https://lh6.googleusercontent.com/-EW3dCWeLHNM/VEuzA5AXSQI/AAAAAAAACGU/48AOZcdgObM/w981-h579-no/users.JPG)
+In fact, a <b>users.php</b> file is required in this example, so we have to create a file like <b>hello.php</b> under <b><i>app/views</i></b>.
